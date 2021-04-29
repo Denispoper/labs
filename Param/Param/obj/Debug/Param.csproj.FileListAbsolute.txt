@@ -1,0 +1,13 @@
+D:\WPF\Param\Param\bin\Debug\Param.exe.config
+D:\WPF\Param\Param\bin\Debug\Param.exe
+D:\WPF\Param\Param\bin\Debug\Param.pdb
+D:\WPF\Param\Param\obj\Debug\MainWindow.g.cs
+D:\WPF\Param\Param\obj\Debug\App.g.cs
+D:\WPF\Param\Param\obj\Debug\Param_MarkupCompile.cache
+D:\WPF\Param\Param\obj\Debug\Param_MarkupCompile.lref
+D:\WPF\Param\Param\obj\Debug\MainWindow.baml
+D:\WPF\Param\Param\obj\Debug\Param.g.resources
+D:\WPF\Param\Param\obj\Debug\Param.Properties.Resources.resources
+D:\WPF\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\WPF\Param\Param\obj\Debug\Param.exe
+D:\WPF\Param\Param\obj\Debug\Param.pdb

@@ -1,0 +1,13 @@
+D:\WPF\InkPad\InkPad\bin\Debug\InkPad.exe.config
+D:\WPF\InkPad\InkPad\bin\Debug\InkPad.exe
+D:\WPF\InkPad\InkPad\bin\Debug\InkPad.pdb
+D:\WPF\InkPad\InkPad\obj\Debug\MainWindow.g.cs
+D:\WPF\InkPad\InkPad\obj\Debug\App.g.cs
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.cache
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.lref
+D:\WPF\InkPad\InkPad\obj\Debug\MainWindow.baml
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad.g.resources
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad.Properties.Resources.resources
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad.csproj.GenerateResource.cache
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad.exe
+D:\WPF\InkPad\InkPad\obj\Debug\InkPad.pdb
